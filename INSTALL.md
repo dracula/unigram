@@ -1,17 +1,17 @@
-### [X](http://link-to-x.com)
+### [Unigram](https://github.com/UnigramDev/Unigram)
 
 #### Install using Git
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
-    $ git clone https://github.com/dracula/template.git
+    $ git clone https://github.com/dracula/unigram.git
 
 #### Install manually
 
-Download using the [GitHub .zip download](https://github.com/dracula/template/archive/master.zip) option and unzip them.
+Download using the [GitHub .zip download](https://github.com/dracula/unigram/archive/master.zip) option and unzip them.
 
 #### Activating theme
 
-1. Do this
-2. Then that
-3. Boom! It's working
+1. Send `Dracula.unigram-theme` from `/sample/Dracula.unigram-theme` to any DM
+2. Click on the sent file
+3. Click `Apply`
