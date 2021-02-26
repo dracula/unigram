@@ -15,3 +15,5 @@ Download using the [GitHub .zip download](https://github.com/dracula/unigram/arc
 1. Send `Dracula.unigram-theme` from `/sample/Dracula.unigram-theme` to any DM
 2. Click on the sent file
 3. Click `Apply`
+
+_Note: The theme is also available on the [DMJ Unigram Themes Channel](https://t.me/DMJ_UnigramThemes/51)_
